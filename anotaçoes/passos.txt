@@ -1,0 +1,11 @@
+Primeiros passos
+
+Instalar a biblioteca Chart.js via CDN;
+Implementar um gráfico com os métodos disponíveis na biblioteca Chart.js;
+Consumir APIs de forma assíncrona com a FetchAPI;
+Conectar com a API de cotação de moedas chamada Awesome API.
+
+Segundos passos
+
+Executar uma função a cada determinado tempo através do setInterval;
+Criar um gerador de horário atarvés do Date
